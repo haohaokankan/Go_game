@@ -5,3 +5,4 @@ path = "./"
 
 j = open(path + "cresult.txt", "w").close()
 
+#mmmmmmmmm
